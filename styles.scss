@@ -1,3 +1,18 @@
-html{
-    font-size: 3rem;
-}
+@import './styles/reset.scss'
+@import './styles/fonts.scss'
+@import './styles/config.scss'
+@import './styles/general.scss'
+
+
+@import './styles/base.scss'
+@import './styles/header.scss'
+@import './styles/button.scss'
+@import './styles/animation.scss'
+@import './styles/layout.scss'
+@import './styles/navigation.scss'
+@import './styles/main.scss'
+@import './styles/footer.scss'
+@import './styles/boxes.scss'
+@import './styles/opening-hours'
+@import './styles/menu.scss'
+@import './styles/form.scss'
