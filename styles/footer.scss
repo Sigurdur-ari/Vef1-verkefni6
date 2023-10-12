@@ -8,15 +8,15 @@
   
     background-color: var(--color-dark);
     color: var(--color-gold-light);
-  }
-  
-  .footer .content {
-    display: grid;
-    gap: var(--vertical-space);
-  
-    margin: 0 auto;
-  
-    text-align: center;
+
+    .content {
+      display: grid;
+      gap: var(--vertical-space);
+    
+      margin: 0 auto;
+    
+      text-align: center;
+    }
   }
   
   @media (min-width: 500px) {

@@ -10,17 +10,16 @@
   
     background-color: var(--color-light);
     color: var(--color-dark);
-  }
-  
-  .navigation ul {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: var(--spacing);
-  
-    width: 100%;
-    max-width: var(--width-offset);
-  
-    list-style: none;
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: var(--spacing);
+    
+      width: 100%;
+      max-width: var(--width-offset);
+    
+      list-style: none;
+    }
   }
   
