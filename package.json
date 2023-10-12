@@ -1,0 +1,21 @@
+{
+  "name": "vef1-verkefni6",
+  "version": "1.0.0",
+  "description": "Þetta er verkefni 6 í vefforritun 1 eftir Sigurð Ara",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sigurdur-ari/Vef1-verkefni6"
+  },
+  "homepage": "https://github.com/Sigurdur-ari/Vef1-verkefni6/blob/main/readme.md",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "sass": "^1.69.3",
+    "stylelint": "^15.10.3"
+  }
+}
