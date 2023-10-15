@@ -18,15 +18,17 @@ fieldset {
     padding: calc(var(--spacing) * 0.5);
     width: 100%;
     }
-    input[type='checkbox'] {
-    width: auto;
-    }
-    .checkbox label {
+
+    .checkbox-box label {
     flex-direction: row;
     gap: calc(var(--spacing) * 0.5);
     }
   
+    .checkbox {
+      width: auto;
+    }
   }
+
   
   form button {
     padding: calc(var(--spacing) * 0.25);
